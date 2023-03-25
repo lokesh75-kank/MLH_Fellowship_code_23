@@ -1,4 +1,5 @@
 # Machine learning Assignment Explanation
+
 I have completed the assignment as part of my Machine learning Engineering course at San Diego State University
 
 Dataset: I have loaded the Baseball dataset directly from MariaDB into Spark, as required by the task. I ensured that only the necessary raw data was extracted from MariaDB, and no calculations were done in the database. All the logic for the task was implemented in Spark.
